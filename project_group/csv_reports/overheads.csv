@@ -1,16 +1,12 @@
-,Day : 0 - 90
-Salary Expense,"2,613,055"
-Rental Expense,"2,465,880"
-Marketing Expense,"7,011,400"
-Overflow Expense - Retail,"215,416"
-Overflow Expense - Warehouse,"141,533"
-Penalty Expense,"54,200"
-Shipping Expense,"949,266"
-Maintenance Expense,"450,000"
-Human Resource Expense,"2,303,000"
-Interest Expense,"27,996"
-Research Expense,0
-Development Expense,0
-Depreciation Expense,"1,065,000"
-Employee Income Tax Expense,0
-Other Expense,0
+﻿"Category","Overheads"
+"Salary Expense",15.11
+"Interest Expense ",0.16
+"Marketing Expense",40.54
+"Rental Expense",14.26
+"Overflow Expense - Retail",1.25
+"Overflow Expense - Warehouse",0.82
+"Penalty Expense",0.31
+"Depreciation Expense",6.16
+"Maintenance Expense",2.6
+"Shipping Expense",5.49
+"Human Resource Expense",13.31
