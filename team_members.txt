@@ -1,0 +1,15 @@
+Team Member 1
+Name: "ANG YI KAI"
+Student ID : "s10259879K"
+
+Team Member 2
+Name: "Tay Chuan Hong, Morgan"
+Student ID : "S10255620F"
+
+Team Member 3
+Name: "Tan Jian Feng"
+Student ID : "S10258730G"
+
+Team Member 4
+Name: "Gabrielle Anna Lau"
+Student ID : "S10256051G"
