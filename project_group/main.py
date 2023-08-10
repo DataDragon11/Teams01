@@ -4,7 +4,7 @@ from overheads import overhead_function
 from profit_loss import profitloss_function
 
 # Set file paths to COH.csv, overheads.csv, and profit_loss.csv in the current working directory.
-coh_file_path = Path.cwd()/"COH.csv"
+coh_file_path = Path.cwd()/"coh.csv"
 overheads_file_path = Path.cwd()/"overheads.csv"
 profitloss_file_path = Path.cwd() / "profit_loss.csv"
 
