@@ -1,7 +1,7 @@
 from pathlib import Path
 import csv
 # Path the coh.csv file to the current working directory.
-file_path = Path.cwd()/"coh.csv"
+file_path = Path.cwd()/"csv_reports"/"coh.csv"
 def coh_function(file_path):
     """
     -The function determines the difference in cash on hand if it is lower than the previous day 

@@ -1,7 +1,7 @@
 from pathlib import Path
 import csv
 
-file_path = Path.cwd() / "profit_loss.csv"
+file_path = Path.cwd()/"csv_reports"/"profit_loss.csv"
 
 def profitloss_function(file_path):
     """
